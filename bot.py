@@ -10,11 +10,10 @@ commands = {
     "stop": "Cancel a process",
 }
 
-# Get the bot's token, api id, api hash, and owner id
+# Get the bot's token, api id, api hash
 bot_token = "5299727456:AAHW2A-HsG-5jyq4XdJzVHfYiOGgwUUaRO8"
 api_id = "6534707"
 api_hash = "4bcc61d959a9f403b2f20149cbbe627a"
-owner_id = "1430593323"
 
 # Create the bot
 bot = pyrogram.Client(
