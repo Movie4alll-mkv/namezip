@@ -1,5 +1,6 @@
 import pyrogram
 import zipfile
+import builtins
 
 # Define the bot's commands
 commands = {
