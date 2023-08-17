@@ -1,7 +1,7 @@
 import pyrogram
 import zipfile
 import builtins
-import filter
+from pyrogram import filter
 # Define the bot's commands
 commands = {
     "zip": "Download the file to be zipped",
